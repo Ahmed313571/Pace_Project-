@@ -4,7 +4,7 @@
 This project analyzes pace changes in a 5 kilometer run over time using Excel 
 
 ## Features  
-- Pace tracking across multiple dates spanning 7 months
+- Pace tracking across multiple dates spanning 6 months
 - Use of Pivot table for multiple statistical measures
 - Data Visualization using graphical tools
 - Monthly analysis
